@@ -1,0 +1,7 @@
+import java.util.*;
+public class Vain{
+public static void main(String args[]){
+  int var=98;
+  System.out.println(var);
+}
+}
